@@ -58,3 +58,7 @@
   path = bundle/vim-go
   url = git@github.com:fatih/vim-go.git
   ignore = untracked
+[submodule "vim-protobuf"]
+	path = vim-protobuf
+	url = git@github.com:uarun/vim-protobuf.git
+  ignore = untracked
