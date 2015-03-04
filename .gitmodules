@@ -59,9 +59,14 @@
   url = git@github.com:fatih/vim-go.git
   ignore = untracked
 [submodule "vim-protobuf"]
-	path = bundle/vim-protobuf
-	url = git@github.com:uarun/vim-protobuf.git
+  path = bundle/vim-protobuf
+  url = git@github.com:uarun/vim-protobuf.git
   ignore = untracked
 [submodule "bundle/rust.vim"]
-	path = bundle/rust.vim
-	url = git@github.com:rust-lang/rust.vim.git
+  path = bundle/rust.vim
+  url = git@github.com:rust-lang/rust.vim.git
+  ignore = untracked
+[submodule "bundle/vim-easymotion"]
+  path = bundle/vim-easymotion
+  url = git@github.com:Lokaltog/vim-easymotion.git
+  ignore = untracked
